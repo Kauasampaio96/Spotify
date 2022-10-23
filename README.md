@@ -1,18 +1,12 @@
 # Clone do Site Spotify
 
 <div align="center">
- <img src="to_readme_net.gif">
-</div>
-
-<div align="center">
- <img src="to_readme_net2.gif">
+ <img src="to_readme.gif">
 </div>
 
 <div align="center">
  <img src="to_readme.png">
  <img src="to_readme2.png">
- <img src="to_readme3.png">
- <img src="to_readme4.png">
 </div>
 
 
